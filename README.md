@@ -10,11 +10,7 @@ I am interested in a web developer career because I want to change my activity a
 - I have gained hardware and software knowledge  
 - I learned c/c++, Database, Java (Object-Oriented Programming OOP)  
 
-2020-2021 -> WellCode Ro  
-- I wrote code using C++  
-- Learning about software constructs and programming concepts  
-- Understanding of (and programming experience with) common data structures  
-- I learned Java standards. (oop)  
+
 
 Now I'm learning web development from freeCodeCamp.  
 
